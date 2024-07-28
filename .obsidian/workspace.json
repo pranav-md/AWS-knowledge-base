@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Authentication and authorization.md",
+                "file": "Development/Application Integration.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f70cace13f529598",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Development/Application Integration.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "e7759b629e1a4d91",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Authentication and authorization.md",
+                "file": "Development/Application Integration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Authentication and authorization.md",
+                "file": "Development/Application Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Authentication and authorization.md"
+                "file": "Development/Application Integration.md"
               }
             }
           }
@@ -146,14 +159,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cf2a8c118330b6d",
+  "active": "f70cace13f529598",
   "lastOpenFiles": [
-    "Development/Networking and Content Delivery.md",
-    "Development/Database development.md",
-    "Development/Developer Tools.md",
     "Development/Compute development.md",
-    "Deployment/Managed application deployment.md",
+    "Development/Database development.md",
     "Development/Application Integration.md",
+    "Development/Networking and Content Delivery.md",
+    "Development/Developer Tools.md",
+    "Security/Authentication and authorization.md",
+    "Deployment/Managed application deployment.md",
     "Deployment/Compute deployment strategies.md"
   ]
 }

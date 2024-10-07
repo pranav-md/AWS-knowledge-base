@@ -19,7 +19,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 207.5
   },
   "right": {
     "id": "e7759b629e1a4d91",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Development/Compute development.md",
+                "file": "Development/Application Integration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,17 +156,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cf2a8c118330b6d",
+  "active": "f70cace13f529598",
   "lastOpenFiles": [
-    "Development/Application Integration.md",
-    "2024-07-29.md",
-    "Deployment/Compute deployment strategies.md",
-    "Untitled.canvas",
-    "Security/Authentication and authorization.md",
-    "Development/Networking and Content Delivery.md",
-    "Development/Database development.md",
-    "Development/Developer Tools.md",
     "Development/Compute development.md",
-    "Deployment/Managed application deployment.md"
+    "Development/Database development.md",
+    "Development/Application Integration.md",
+    "Development/Networking and Content Delivery.md",
+    "Development/Developer Tools.md",
+    "Security/Authentication and authorization.md",
+    "Deployment/Managed application deployment.md",
+    "Deployment/Compute deployment strategies.md"
   ]
 }

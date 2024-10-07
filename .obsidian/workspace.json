@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Security/Authentication and authorization.md",
+                "file": "Development/Compute development.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Security/Authentication and authorization.md",
+                "file": "Development/Compute development.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Security/Authentication and authorization.md",
+                "file": "Development/Compute development.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,16 +125,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Security/Authentication and authorization.md"
+                "file": "Development/Compute development.md"
               }
             }
+          },
+          {
+            "id": "1a1310b999dc90cb",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -143,17 +151,21 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "5cf2a8c118330b6d",
   "lastOpenFiles": [
+    "Development/Application Integration.md",
+    "2024-07-29.md",
+    "Deployment/Compute deployment strategies.md",
+    "Untitled.canvas",
+    "Security/Authentication and authorization.md",
     "Development/Networking and Content Delivery.md",
     "Development/Database development.md",
     "Development/Developer Tools.md",
     "Development/Compute development.md",
-    "Deployment/Managed application deployment.md",
-    "Development/Application Integration.md",
-    "Deployment/Compute deployment strategies.md"
+    "Deployment/Managed application deployment.md"
   ]
 }
